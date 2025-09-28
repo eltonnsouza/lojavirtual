@@ -1,4 +1,4 @@
-#### Instalar o projeto
+#### Instalar o projeto.
 
 * Instalar as dependências
 ```
