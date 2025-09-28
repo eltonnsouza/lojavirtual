@@ -1,0 +1,149 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Shorts Jeans Estonado",
+      "description": "Shorts jeans de cintura alta, com lavagem estonada e barra desfiada. Conforto e estilo para o seu dia a dia.",
+      "price": 89.90,
+      "category": "shorts_jeans",
+      "sizes": ["36", "38", "40", "42"],
+      "main_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1YNn35QiYrPf8i-3dtHMlCkgm1wJv-etG91cKh0fCu2GPU2ScGk6vDElpMV8moY5xH34&usqp=CAU",
+      "additional_images": [
+        "https://example.com/images/shorts-jeans-estonado-1.jpg",
+        "https://example.com/images/shorts-jeans-estonado-2.jpg"
+      ],
+      "featured": true,
+      "brand": "Fashion Brasil",
+      "material": "Algodão 100%"
+    },
+    {
+      "id": "2",
+      "name": "Calça Wide Leg Preta",
+      "description": "Calça Wide Leg de sarja na cor preta, super versátil e moderna. Peça chave para montar looks elegantes e casuais.",
+      "price": 179.90,
+      "category": "calca_wide_leg",
+      "sizes": ["36", "38", "40", "42", "44"],
+      "main_image": "data:image/jpeg;base64,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",
+      "additional_images": [
+        "https://example.com/images/calca-wide-leg-preta-1.jpg",
+        "https://example.com/images/calca-wide-leg-preta-2.jpg",
+        "https://example.com/images/calca-wide-leg-preta-3.jpg"
+      ],
+      "featured": false,
+      "brand": "Estilo Urbano",
+      "material": "Sarja"
+    },
+    {
+      "id": "3",
+      "name": "Bermuda Jeans Destroyed",
+      "description": "Bermuda jeans com detalhes destroyed, perfeita para um visual despojado e autêntico. Ideal para dias quentes.",
+      "price": 99.90,
+      "category": "bermudas_jeans",
+      "sizes": ["40", "42", "44"],
+      "main_image": "https://images.tcdn.com.br/img/img_prod/627102/bermuda_feminina_longa_em_tecido_trabalhado_com_estampa_30316_1_0b2674afbb21d613dc8f2cb7f5316555.jpg",
+      "additional_images": [],
+      "featured": true,
+      "brand": "Jeans Company",
+      "material": "Algodão 100%"
+    },
+    {
+      "id": "4",
+      "name": "Calça Mom Jeans Azul",
+      "description": "Clássica calça mom jeans, com cintura alta e corte reto, em lavagem azul vintage. Um item atemporal no seu guarda-roupa.",
+      "price": 169.90,
+      "category": "calca_mom",
+      "sizes": ["34", "36", "38", "40"],
+      "main_image": "https://images.tcdn.com.br/img/img_prod/780671/cala_mom_azul_claro_1_20250807161303_b56c61d1ff9e.jpg",
+      "additional_images": [
+        "https://images.tcdn.com.br/img/img_prod/780671/cala_mom_azul_claro_1_20250807161303_b56c61d1ff9e.jpg"
+      ],
+      "featured": false,
+      "brand": "Denim World",
+      "material": "Algodão"
+    },
+    {
+      "id": "5",
+      "name": "Shorts de Linho Cáqui",
+      "description": "Shorts leve e confortável, 100% linho, com elástico na cintura e bolsos laterais. Perfeito para o verão.",
+      "price": 79.90,
+      "category": "shorts_linho",
+      "sizes": ["P", "M", "G"],
+      "main_image": "https://images.tcdn.com.br/img/img_prod/919154/vestido_rbia_1_20250821165537_9f741f20d0ad.jpg",
+      "additional_images": [],
+      "featured": true,
+      "brand": "Natural Wear",
+      "material": "Linho 100%"
+    },
+    {
+      "id": "6",
+      "name": "Calça Mom Jeans Azul",
+      "description": "Clássica calça mom jeans, com cintura alta e corte reto, em lavagem azul vintage. Um item atemporal no seu guarda-roupa.",
+      "price": 169.90,
+      "category": "calca_mom",
+      "sizes": ["34", "36", "38", "40"],
+      "main_image": "https://images.tcdn.com.br/img/img_prod/780671/cala_mom_azul_claro_1_20250807161303_b56c61d1ff9e.jpg",
+      "additional_images": [
+        "https://images.tcdn.com.br/img/img_prod/780671/cala_mom_azul_claro_1_20250807161303_b56c61d1ff9e.jpg"
+      ],
+      "featured": false,
+      "brand": "Denim World",
+      "material": "Algodão"
+    },
+    {
+      "id": "7",
+      "name": "Shorts de Linho Cáqui",
+      "description": "Shorts leve e confortável, 100% linho, com elástico na cintura e bolsos laterais. Perfeito para o verão.",
+      "price": 79.90,
+      "category": "shorts_linho",
+      "sizes": ["P", "M", "G"],
+      "main_image": "https://images.tcdn.com.br/img/img_prod/919154/vestido_rbia_1_20250821165537_9f741f20d0ad.jpg",
+      "additional_images": [],
+      "featured": true,
+      "brand": "Natural Wear",
+      "material": "Linho 100%"
+    },
+    {
+      "id": "8",
+      "name": "Calça Mom Jeans Azul",
+      "description": "Clássica calça mom jeans, com cintura alta e corte reto, em lavagem azul vintage. Um item atemporal no seu guarda-roupa.",
+      "price": 169.90,
+      "category": "calca_mom",
+      "sizes": ["34", "36", "38", "40"],
+      "main_image": "https://images.tcdn.com.br/img/img_prod/780671/cala_mom_azul_claro_1_20250807161303_b56c61d1ff9e.jpg",
+      "additional_images": [
+        "https://images.tcdn.com.br/img/img_prod/780671/cala_mom_azul_claro_1_20250807161303_b56c61d1ff9e.jpg"
+      ],
+      "featured": false,
+      "brand": "Denim World",
+      "material": "Algodão"
+    },
+    {
+      "id": "9",
+      "name": "Shorts de Linho Cáqui",
+      "description": "Shorts leve e confortável, 100% linho, com elástico na cintura e bolsos laterais. Perfeito para o verão.",
+      "price": 79.90,
+      "category": "shorts_linho",
+      "sizes": ["P", "M", "G"],
+      "main_image": "https://images.tcdn.com.br/img/img_prod/919154/vestido_rbia_1_20250821165537_9f741f20d0ad.jpg",
+      "additional_images": [],
+      "featured": true,
+      "brand": "Natural Wear",
+      "material": "Linho 100%"
+    },
+    {
+      "id": "10",
+      "name": "Calça Mom Jeans Azul",
+      "description": "Clássica calça mom jeans, com cintura alta e corte reto, em lavagem azul vintage. Um item atemporal no seu guarda-roupa.",
+      "price": 169.90,
+      "category": "calca_mom",
+      "sizes": ["34", "36", "38", "40"],
+      "main_image": "https://images.tcdn.com.br/img/img_prod/780671/cala_mom_azul_claro_1_20250807161303_b56c61d1ff9e.jpg",
+      "additional_images": [
+        "https://images.tcdn.com.br/img/img_prod/780671/cala_mom_azul_claro_1_20250807161303_b56c61d1ff9e.jpg"
+      ],
+      "featured": false,
+      "brand": "Denim World",
+      "material": "Algodão"
+    }
+  ]
+}
