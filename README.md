@@ -1,6 +1,6 @@
 #### Instalar o projeto.
 
-* Instalar as dependências
+* Instalar as dependências (se for a primeira vez que vai rodar essa api)
 ```
 npm i
 ```
