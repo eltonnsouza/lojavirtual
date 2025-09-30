@@ -5,12 +5,12 @@
 npm i
 ```
 
-* Rodar Api
+* Rodar Api backend
 ```
 npm run api
 ```
 
-* Rodar o Projeto
+* Rodar o Projeto frontend
 ```
 npm run dev
 ```
