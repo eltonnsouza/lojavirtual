@@ -14,3 +14,6 @@ npm run api
 ```
 npm run dev
 ```
+* para parar de rodar a api
+
+ctrl + c
