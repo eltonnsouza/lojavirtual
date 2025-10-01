@@ -5,7 +5,7 @@
 npm i
 ```
 
-* Rodar Api backend
+* Rodar Api backend (a ordem nao importa )
 ```
 npm run api
 ```
